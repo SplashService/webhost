@@ -1,1 +1,1 @@
-runcmd.Enabled = true;
+try { runcmd.Enabled = true; } catch { }
