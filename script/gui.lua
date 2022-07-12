@@ -49,7 +49,7 @@ local themeStyles = {
 	Background = Color3.fromRGB(18,18,20),
     Header = Color3.fromRGB(23,23,25),
     TextColor = Color3.fromRGB(255,255,255),
-    ElementColor = Color3.fromRGB(61,90,254)
+    ElementColor = Color3.fromRGB(23,23,25)
     },
 }
 local oldTheme = ""
