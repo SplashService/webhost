@@ -45,11 +45,11 @@ local themes = {
 }
 local themeStyles = {
     SplashTheme1 = {
-    SchemeColor = Color3.fromRGB(112, 112, 112),
-	Background = Color3.fromRGB(15,15,15),
-    Header = Color3.fromRGB(15,15,15),
+    SchemeColor = Color3.fromRGB(18,18,20),
+	Background = Color3.fromRGB(18,18,20),
+    Header = Color3.fromRGB(23,23,25),
     TextColor = Color3.fromRGB(255,255,255),
-    ElementColor = Color3.fromRGB(20, 20, 20)
+    ElementColor = Color3.fromRGB(23,23,25)
     },
 }
 local oldTheme = ""
