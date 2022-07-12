@@ -45,7 +45,7 @@ local themes = {
 }
 local themeStyles = {
     SplashTheme1 = {
-    SchemeColor = Color3.fromRGB(18,18,20),
+    SchemeColor = Color3.fromRGB(61,90,254),
 	Background = Color3.fromRGB(18,18,20),
     Header = Color3.fromRGB(23,23,25),
     TextColor = Color3.fromRGB(255,255,255),
